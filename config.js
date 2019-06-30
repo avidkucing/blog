@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://avidsantiko.com',
   title: 'Blog by Avid',
   subtitle: 'Learn life, spread the love.',
   copyright: '© All rights reserved.',
